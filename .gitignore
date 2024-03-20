@@ -1,0 +1,11 @@
+.env
+.idea/
+__pycache__/
+alembic.ini
+/client/tools/__pycache__/
+/client1/
+/client2/
+/migrations/
+/test/
+test.py 
+ws.py
